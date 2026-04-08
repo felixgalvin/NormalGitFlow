@@ -4,15 +4,15 @@ public static void main(String[] args) {
     switch (input.nextInt()) {
         case 1:
             System.out.println("You have chosen to add a new feature.");
-            // Code to add a new feature
+            Add();
             break;
         case 2:
             System.out.println("You have chosen to view existing features.");
-            // Code to view existing features
+            view();
             break;
         case 3:
             System.out.println("You have chosen to delete a feature.");
-            // Code to delete a feature
+            delete();
             break;
         default:
             System.out.println("Invalid choice. Please try again.");
