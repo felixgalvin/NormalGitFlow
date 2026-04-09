@@ -1,0 +1,6 @@
+public static void view() {
+    System.out.println("Existing features:");
+    for (String feature : features) {
+        System.out.println("- " + feature);
+    }
+}

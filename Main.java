@@ -9,7 +9,7 @@ public static void main(String[] args) {
         case 2:
             System.out.println("You have chosen to view existing features.");
             view();
-            break;
+            break;  
         case 3:
             System.out.println("You have chosen to delete a feature.");
             delete();
