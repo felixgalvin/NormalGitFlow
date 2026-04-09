@@ -9,4 +9,5 @@ public static void Add() {
     }
 
     System.out.println("minor bug found");
+    System.out.println("critical bug found");
 }
