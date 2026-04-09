@@ -7,4 +7,6 @@ public static void delete() {
     } else {
         System.out.println("Feature '" + featureToDelete + "' not found.");
     }
+    
+    System.out.println("minor bug found");
 }

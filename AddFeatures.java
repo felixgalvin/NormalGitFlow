@@ -7,4 +7,6 @@ public static void Add() {
     } else {
         System.out.println("Feature '" + newFeature + "' already exists.");
     }
+
+    System.out.println("minor bug found");
 }

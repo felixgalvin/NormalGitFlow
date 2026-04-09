@@ -3,4 +3,6 @@ public static void view() {
     for (String feature : features) {
         System.out.println("- " + feature);
     }
+
+    System.out.println("minor bug found");
 }
