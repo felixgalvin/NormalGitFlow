@@ -9,4 +9,6 @@ public static void delete() {
     }
     
     System.out.println("minor bug found");
+    System.out.println("critical bug found");
+    System.out.println("critical bug found");
 }
