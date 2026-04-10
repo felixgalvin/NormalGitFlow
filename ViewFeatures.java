@@ -5,4 +5,5 @@ public static void view() {
     }
 
     System.out.println("minor bug found");
+    System.out.println("critical bug found");
 }
